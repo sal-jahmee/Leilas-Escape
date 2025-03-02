@@ -72,21 +72,11 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 ___
 
 ## SCREENSHOTS
-
-**In progress game**
-
-![image](https://github.com/user-attachments/assets/8411dba8-2a47-48e4-a738-9aead82e6bbe)
-
-**Level 1 - The Dungeon**
-
-![image](https://github.com/user-attachments/assets/16cc49c4-bb2e-4fc3-a260-03431e8d59e9)
-
-
-**Level 2 - The Potion Room**
-![image](https://github.com/user-attachments/assets/fa53e367-396f-45e5-8076-aa4acae6d75f)
-
-**Level 3 - Throne Room**
-![image](https://github.com/user-attachments/assets/5d38d215-7185-443a-8ae5-2e5b3ddca140)
+<div style="display: flex; justify-content: space-between; padding: 20px;">
+  <img src="https://github.com/user-attachments/assets/16cc49c4-bb2e-4fc3-a260-03431e8d59e9" alt="Level 1 - The Dungeon" style="width: 300px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/fa53e367-396f-45e5-8076-aa4acae6d75f" alt="Level 2 - The Potion Room" style="width: 300px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/5d38d215-7185-443a-8ae5-2e5b3ddca140" alt="Level 3 - Throne Room" style="width: 300px; height: auto;">
+</div>
 
 ___
 ## ANIMATIONS
