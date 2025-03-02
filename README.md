@@ -50,13 +50,13 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 
 ## My Contributions 👾
 
-- Created backgrounds for levels using pixel art. 🎨
-- Created princess and wisp characters. 👸✨
-- Developed animations for levels (spider, pot, candles) to create an immersive atmosphere. 🕷️🕯️
-- Designed and implemented dialog boxes. 💬
-- Integrated pixel art assets (animations, backgrounds) using SpriteKit. 🎮
-- Managed room transitions and dialog flow. 🔄
-- Incorporated haptic feedback for accessibility and immersion. 💥
+- Created backgrounds for levels using pixel art. 
+- Created princess and wisp characters. 
+- Developed animations for levels (spider, pot, candles, princess frames) to create an immersive atmosphere. 
+- Designed and implemented dialog boxes. 
+- Integrated pixel art assets (animations, backgrounds) using SpriteKit. 
+- Managed room transitions and dialog flow. 
+- Incorporated haptic feedback for accessibility and immersion. 
 
 ---
 
