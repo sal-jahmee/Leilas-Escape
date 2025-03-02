@@ -45,11 +45,24 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 - Story elements to deepen player engagement.
 - obstacles and mechanics for varied gameplay.
 
+  ---
+
+## My Contributions
+
+- Created backgrounds for levels using pixel art.
+- Created princess and wisp
+- Created Animations for levels (spider, pot, candles) to create an immersive atmosphere.
+- Created Dialog box.
+- Integrated pixel art assets (animations, backgrounds) using SpriteKit.
+- Integregrated Animations into code.
+- Helped manage room transitions.
+- Created and managed dialog boxes to display in order during gameplay.
+
 ---
 
 ## 👥 Team
 
-- **Shakira** – Designer/Coder
+- **Shakira Al-Jahmee** – Designer/Coder
 - **Jazmine Middlebrooks** - Designer
 - **Linda Swanson** - Coder
 - **Saeed Mohamed**- Coder
@@ -73,6 +86,13 @@ ___
 
 **Level 3 - Throne Room**
 ![image](https://github.com/user-attachments/assets/5d38d215-7185-443a-8ae5-2e5b3ddca140)
+
+___
+## ANIMATIONS
+
+![Shakira%20Al-Jahmee's%20Video%20-%20Mar%202%2C%202025-VEED](https://github.com/user-attachments/assets/7bcf010a-1335-4159-adb6-1312fca31954)
+
+
 
 
 
