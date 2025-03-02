@@ -39,7 +39,7 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 
 ---
 
-## 📌 Future Enhancements 🚀
+## Future Enhancements 🚀
 
 - More levels with increasing difficulty. 📈
 - Incorporate puzzles. 🧩
@@ -48,7 +48,7 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 
 ---
 
-## 🧑‍💻 My Contributions 👾
+## My Contributions 👾
 
 - Created backgrounds for levels using pixel art. 🎨
 - Created princess and wisp characters. 👸✨
@@ -60,25 +60,16 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 
 ---
 
-## 👥 Team 👩‍💻👨‍💻
+## Meet the team
 
-- **Shakira Al-Jahmee** – Designer/Coder 🎨💻
-- **Jazmine Middlebrooks** - Designer 🎨
-- **Linda Swanson** - Coder 💻
-- **Saeed Mohamed**- Coder 💻
-- **Andrea Powell** - Project Manager 🗂️
-
----
-## GAMEPLAY 
-
-
-
-
-
-
+- **Shakira Al-Jahmee** – Designer/Coder 
+- **Jazmine Middlebrooks** - Designer
+- **Linda Swanson** - Coder 
+- **Saeed Mohamed**- Coder 
+- **Andrea Powell** - Project Manager 
 
 ---
-## SCREENSHOTS 📸
+## screenshots 
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px; padding: 20px;">
   <img src="https://github.com/user-attachments/assets/16cc49c4-bb2e-4fc3-a260-03431e8d59e9" alt="Level 1 - The Dungeon" style="width: 80%; max-width: 900px; height: auto;">
@@ -87,8 +78,6 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 </div>
 
 ---
-
-## ANIMATIONS 🎬
 
 ## **Animations**  
 
