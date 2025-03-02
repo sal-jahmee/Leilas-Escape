@@ -90,12 +90,11 @@ ___
 
 ___
 ## ANIMATIONS
-<div style="display: flex; justify-content: space-around; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/7bcf010a-1335-4159-adb6-1312fca31954" alt="Animation 1" style="width: 250px; height: auto;">
-  <img src="https://github.com/user-attachments/assets/39b4f2ad-bab4-4352-a600-2542160666ae" alt="Animation 2" style="width: 250px; height: auto;">
-  <img src="https://github.com/user-attachments/assets/9935c691-42b7-4460-ac13-dee70ad4cabe" alt="Animation 3" style="width: 250px; height: auto;">
+<div style="display: flex; justify-content: space-between; padding: 20px;">
+  <img src="https://github.com/user-attachments/assets/7bcf010a-1335-4159-adb6-1312fca31954" alt="Animation 1" style="width: 280px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/39b4f2ad-bab4-4352-a600-2542160666ae" alt="Animation 2" style="width: 280px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/9935c691-42b7-4460-ac13-dee70ad4cabe" alt="Animation 3" style="width: 280px; height: auto;">
 </div>
-
 
 
 
