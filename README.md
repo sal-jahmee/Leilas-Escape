@@ -57,6 +57,7 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 - Integregrated Animations into code.
 - Helped manage room transitions.
 - Created and managed dialog boxes to display in order during gameplay.
+- incorporated haptic feed back for accessibility and immersive atmosphere
 
 ---
 
