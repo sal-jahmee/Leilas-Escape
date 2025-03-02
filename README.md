@@ -86,13 +86,12 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
   <img src="https://github.com/user-attachments/assets/5d38d215-7185-443a-8ae5-2e5b3ddca140" alt="Level 3 - Throne Room" style="width: 80%; max-width: 900px; height: auto;">
 </div>
 
----![Shakira%20Al-Jahmee's%20Video%20-%20Mar%202%2C%202025-VEED-5](https://github.com/user-attachments/assets/1a95e30b-55e2-4588-a092-d2a754782eb7)
-
+---
 
 ## ANIMATIONS 🎬
 
 <div style="display: flex; justify-content: space-between; gap: 20px; padding: 20px; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/7bcf010a-1335-4159-adb6-1312fca31954" alt="Animation 1" style="width: 270px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
   <img src="https://github.com/user-attachments/assets/39b4f2ad-bab4-4352-a600-2542160666ae" alt="Animation 2" style="width: 270px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-  <img src="https://github.com/user-attachments/assets/9935c691-42b7-4460-ac13-dee70ad4cabe" alt="Animation 3" style="width: 270px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+  <img src="[https://github.com/user-attachments/assets/9935c691-42b7-4460-ac13-dee70ad4cabe](https://github.com/user-attachments/assets/1a95e30b-55e2-4588-a092-d2a754782eb7)" alt="Animation 3" style="width: 270px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
 </div>
