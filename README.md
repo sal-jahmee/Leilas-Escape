@@ -91,6 +91,12 @@ ___
 ___
 ## ANIMATIONS
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/7bcf010a-1335-4159-adb6-1312fca31954" alt="Animation 1" style="width: 200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/39b4f2ad-bab4-4352-a600-2542160666ae" alt="Animation 2" style="width: 200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/9935c691-42b7-4460-ac13-dee70ad4cabe" alt="Animation 3" style="width: 200px; height: auto;">
+</div>
+
 ![Shakira%20Al-Jahmee's%20Video%20-%20Mar%202%2C%202025-VEED](https://github.com/user-attachments/assets/7bcf010a-1335-4159-adb6-1312fca31954)
 
 ![Shakira%20Al-Jahmee's%20Video%20-%20Mar%202%2C%202025-VEED-2](https://github.com/user-attachments/assets/39b4f2ad-bab4-4352-a600-2542160666ae)
