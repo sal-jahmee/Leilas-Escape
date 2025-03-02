@@ -69,7 +69,15 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 - **Andrea Powell** - Project Manager 🗂️
 
 ---
+## GAMEPLAY 
 
+
+
+
+
+
+
+---
 ## SCREENSHOTS 📸
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px; padding: 20px;">
@@ -78,7 +86,8 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
   <img src="https://github.com/user-attachments/assets/5d38d215-7185-443a-8ae5-2e5b3ddca140" alt="Level 3 - Throne Room" style="width: 80%; max-width: 900px; height: auto;">
 </div>
 
----
+---![Shakira%20Al-Jahmee's%20Video%20-%20Mar%202%2C%202025-VEED-5](https://github.com/user-attachments/assets/1a95e30b-55e2-4588-a092-d2a754782eb7)
+
 
 ## ANIMATIONS 🎬
 
