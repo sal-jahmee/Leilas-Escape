@@ -32,13 +32,6 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 
 ---
 
-## 💻 Code Structure
-
-- **Views** – Manages game logic and player interactions. Handles character movement and animations. 🧑‍💻
-- **Assets/** – Contains pixel art, sprites, and sound effects. 🎨
-
----
-
 ## Future Enhancements 🚀
 
 - More levels with increasing difficulty. 📈
