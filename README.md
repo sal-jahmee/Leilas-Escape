@@ -86,6 +86,6 @@ Leila's Escape is a 2D pixel-art dungeon escape game where players navigate thro
 
 ## Play Here
 
-![image](https://github.com/user-attachments/assets/d13513ce-da28-467e-91b6-db92568bda40)
+<img src="https://github.com/user-attachments/assets/d13513ce-da28-467e-91b6-db92568bda40" width="300">
 
 
